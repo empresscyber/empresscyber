@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @empresscyber
+- 👋 Hi, I’m Tamera Okafor
 - 👀 I’m interested in Business Data Analytics and Cyber security
 - 🌱 I’m currently learning Data Analytics in SQL
 - 💞️ I’m looking to collaborate on business related projects
