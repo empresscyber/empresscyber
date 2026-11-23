@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tamera Okafor
-- 👀 I’m interested in Business Data Analytics and Cyber security
-- 🌱 I’m currently learning Cyber Security
-- 💞️ I’m looking to collaborate on business related projects
+- 👀 I’m interested in Cyber security
+- 🌱 I’m currently working on SOC Projects
+- 💞️ I’m looking to collaborate on security operations center and grc projects
 - 📫 How to reach me email: tamydmaestra@gmail.com
 
 <!---
